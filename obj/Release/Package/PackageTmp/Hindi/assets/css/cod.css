@@ -1,0 +1,507 @@
+﻿.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+.geeks img:hover {
+    cursor: pointer;
+}
+
+.geeks img {
+    transition: 0.5s all ease-in-out;
+    /*border-radius: 104px;*/
+}
+
+.geeks:hover img {
+    transform: scale(1.2);
+}
+
+.header_img img { width:400px; }
+#header .container 
+{
+    display:inline-flex;
+}
+@media screen and (max-width: 792px) {
+    #header .container { justify-content:space-between; }
+    .header_img img {
+        width:270px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .header_img img {
+        width: 328px;
+    }
+}
+
+
+.unit_title {
+    font-size: 12px;
+}
+/* =========About US Start =================== */
+#aboutus p {
+    padding: 1%;
+    background: #c3d0d9;
+    font-size: 16px;
+    color:#000;
+    /*    border-width: 5px;
+    border-style: solid;
+    border-image: linear-gradient(to right,#0a092c, #0026fff2) 1;*/
+    margin: 1%;
+}
+@media (max-width:520px) {
+    #aboutus p {
+        font-size: 14px;
+    }
+}
+
+/* =========About US END =================== */
+/* =========CRVS Start =================== */
+.addbg { background:#fff;padding:5px;text-align:justify; }
+#crvsul {
+    list-style: square;
+    list-style-type: square;
+    padding: 2%;
+}
+    #crvsul li a { color:#000; }
+        #crvsul li a:hover {
+            color: #0d6efd;
+        }
+        @media screen and (max-width: 792px) {
+            #crvsul { padding-left:5%;  }
+}
+/* =========CRVS END =================== */
+/* =========Vision Section Start =================== */
+#vision {
+    width: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+/*ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    padding: 0px;
+    margin: 0px;
+}*/
+
+.headtitle {
+    box-shadow: 0 6px 10px rgba(207, 212, 222, 1);
+    margin-left: 1%;
+    /* background: #0a092c;*/
+    background: #3572ef;
+    display: inline-block;
+    color: #fff;
+    border: none;
+    font-size: 22px;
+    font-weight: 400;
+    border-radius: 10px;
+    padding: 10px;
+}
+@media screen and (max-width:520px) {
+    .headtitle { font-size:18px; }
+    }
+
+.vision-left ul {
+    padding-left: 15px;
+   
+}
+
+.vision-left li {
+    padding: 2px;
+    font-size: 16px;
+    /*color: #ffffffc6;*/
+    color: #000;
+}
+
+#vision li:hover {
+    cursor: pointer;
+}
+
+.vision-left p {
+    font-size: 16px;
+    font-weight: 500;
+ /*   word-spacing: normal;
+    line-height: 18px;*/
+}
+
+.vision-left {
+    /*width: 700px;*/
+    width: 60%;
+    font-size: 16px;
+    font-weight: 400;
+    background: #c3d0d9;
+    padding: 1%;
+    border-width: 5px;
+    /*    border-style: solid;
+    border-image: linear-gradient(to right,#0a092c, #0026fff2) 1;*/
+    color: #000;
+    text-align: justify;
+   /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+}
+
+.vision-right {
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+}
+
+.vision-image {
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* vision media Query for tabs and mobiles */
+@media screen and (min-width: 792px) 
+{
+    .vision-left { padding:2%; }
+}
+    @media screen and (max-width: 792px) {
+        .vision-left ul {
+            padding-left: 20px;
+        }
+
+        #vision {
+            flex-direction: column;
+        }
+
+        .vision-left {
+            width: 100%;
+            font-size:14px;
+        }
+
+        .vision-right {
+            width: 100%;
+            padding: 10px;
+            padding-top: 30px;
+        }
+
+        .vision-image {
+            width: 180px;
+        }
+
+        .vision-left li {
+            font-size: 14px;
+        }
+
+        .vision-left p {
+            font-size: 14px;
+        }
+
+        #headtitle {
+            font-size: 18px;
+        }
+    }
+
+    /* =========Vision Section End =================== */
+    /* ========= Director's Message Section START =================== */
+
+    /*#headmessage { padding-left:5%;padding-right:5%; }*/
+    .message1 img {
+        width:140px;
+    }
+
+.containcol { background:#ffffff6b;padding:10px; }
+/*.tr1 {  background: #1d4f9b;}*/
+.tr1 {
+    background: #8891c1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tr2 {
+    background: #8891c1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+    .tr3 {
+        background: #2b66d3;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .tr1 td {
+        padding: 20px;
+    }
+
+    .tr2 td {
+        padding: 20px;
+    }
+
+    .tr3 td {
+        padding: 20px;
+        color: #000;
+    }
+
+    .tr1, .tr2, .t3 p {
+        color: #000;
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .headname {
+        padding-left: 28%;
+        padding-right: 28%;
+    }
+
+        .headname h4 {
+            /*    background: #0a092c;*/
+            background: #ffffff89;
+            padding: 4px;
+            font-size: 20px;
+            color: #000;
+            text-align: center;
+        }
+
+    #headmessage p {
+        font-size: 16px;
+    }
+
+    .hold p {
+        text-align: justify;
+        color: #000;
+        font-size: 14px;
+    }
+
+    .image_hold {
+        text-align: center;
+    }
+
+        .image_hold img {
+            width: 250px;
+            border-width: 5px;
+            border-style: solid;
+            border-image: linear-gradient(to right,#0a092c, #0026fff2) 1;
+        }
+
+    @media screen and (max-width: 550px) {
+        #headmessage p {
+            font-size: 14px;
+        }
+        .headname h4 { font-size:14px; }
+
+        #headmessage .btn {
+            font-size: 14px;
+        }
+
+        .message1 img {
+            width: 80px;
+        }
+
+        .headname {
+            padding: 0px;
+        }
+
+        .hold p {
+            font-size: 12px;
+        }
+
+        .image_hold img {
+            width: 150px;
+        }
+    }
+
+    .subheading {
+        font-size: 20px;
+        font-weight: bold;
+/*        border-width: 5px;
+        border-style: solid;
+        border-image: linear-gradient(to right,#0a092c, #0026fff2) 1;*/
+    }
+
+    /* ========= Director's Message Section END =================== */
+    /* ========= QUOTES Section START =================== */
+
+
+
+        #quotes .swiper {
+            width: 100%;
+            height: 100%;
+        }
+
+        #quotes .swiper {
+            padding-left:4%;
+            padding-right:4%;
+        }
+#quotes .items {
+    text-align: justify;
+    color: #000;
+    background: #c3d0d9;
+    padding:10px;
+    font-size: 16px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+#quotes .swiper-slide {
+    width: 40%;
+}
+
+    @media screen and (max-width: 740px) {
+        #quotes .items {
+/*            border-radius: 0%;
+            border-style: solid;*/
+            font-size: 14px;
+/*            border-image: linear-gradient(to right,#0a092c, #0026fff2) 1;*/
+        }
+        #quotes .items h5{ font-size:14px; }
+    }
+/*
+    #quotes .items .inner-items {
+        background: #ffffffa4;
+        color: #000000ff;
+        padding: 10px;
+    }
+*/
+    #quotes .items b {
+        font-size: 18px;
+    }
+
+    @media screen and (max-width: 650px) {
+
+        #quotes .swiper-slide { width:100%; }
+        #quotes .items .inner-items {
+            font-size: 12px;
+        }
+
+        #quotes .items {
+            width: auto;
+            height: auto;
+        }
+    }
+
+    /* ========= QUOTES Section END =================== */
+    /* ========= Feedback & Faqs Section Start =================== */
+    #feedbackfaq .item {
+        background-color: #0a092c;
+    }
+
+    #feedbackfaq .item_title {
+        border-bottom: solid 1px #ddd;
+        border-top: solid 1px #ddd;
+        color: #fff;
+        padding: 10px 0px 0px 15px;
+    }
+
+    #feedbackfaq .item_content p {
+        font-size: 14px;
+    }
+
+    #feedbackfaq .item_content {
+        background: #fff;
+        color: #000;
+        padding: 25px 0px 25px 15px;
+        border: solid 1px #ddd;
+    }
+
+.feed-form {
+    background: #a7e6ff;
+    border: solid 1px #80808094;
+    padding: 2%;
+    color: #000;
+    width: 50%;
+}
+    /* ========= Feedback & Faqs Section End =================== */
+    /* ========= ICD Section START =================== */
+
+
+    .codingcase img {
+        width: 700px;
+    }
+
+    @media screen and (max-width: 700px) {
+        .codingcase img {
+            width: 500px;
+        }
+    }
+
+    @media screen and (max-width: 500px) {
+        .codingcase img {
+            width: 250px;
+        }
+    }
+    /* ========= ICD Section END =================== */
+    /* ============ Contact Us page And Footer css ================ */
+    .contactfluid {
+        margin-top: 152px;
+        padding: 1%;
+        overflow-x: auto;
+    }
+
+        .contactfluid table {
+            border-collapse: collapse;
+            background: #a7e6ff;
+        }
+
+            .contactfluid table td, th {
+                text-align: left;
+                padding:1%;
+            }
+
+
+    .map {
+        padding: 5px;
+        display: flex;
+        align-items: center;
+        float: right;
+        width: auto;
+        position: relative;
+    }
+
+
+    .footer-top .row {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .map iframe {
+        width: 400px;
+        height: 300px;
+    }
+
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .scrol {
+        display: none;
+    }
+
+    @media screen and (max-width:780px) {
+        .scrol {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width:780px) {
+        .footer-top .row {
+            display: flex;
+            justify-content: center;
+        }
+
+        .map {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 954px) {
+        .map iframe {
+            width: 250px;
+            height: 250px;
+        }
+    }
+
+
+    @media screen and (max-width: 480px) {
+
+        .map {
+            display: none;
+        }
+
+            .map iframe {
+                width: 200px;
+                height: 150px;
+            }
+    }

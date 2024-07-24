@@ -1,0 +1,326 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COD.Site"  %>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Unit for Strengthening Cause of Death Data - Tata Memorial Centre</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/logo/CCEICON.ico" rel="icon">
+    <link href="assets/img/logo/CCEICON" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <%--    <link href="assets/vendor/Magnific-Popup-master/dist/magnific-popup.css" rel="stylesheet" />--%>
+    <%--image viewer--%>
+    <link href="assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.css" rel="stylesheet" />
+
+    <!---- swiper js CSS ----->
+    <%--    <link rel="stylesheet" href="assets/css/swiper.min.css" />--%>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!----COD CSS ----->
+    <link href="assets/css/cod.css" rel="stylesheet">
+</head>
+
+       <style>
+        .header_img img{
+            width: 63px;
+            margin-right:10px;
+        }
+        .header_img-1 img{
+             width: 75px;
+             position: relative;
+             top: 5%;
+             margin-left:10px;
+        }
+
+        @media (max-width: 485px) {
+            .img-top-img{
+                display:block;
+            }
+            .img-top-1{
+                display:none !important;
+            }
+            .mob-head{
+                display:flex;
+                justify-content:space-evenly;
+            }
+            #header-1{
+                top:0;
+                background:#fbf7f7;
+            }
+           
+ 
+}
+                @media (min-width: 488px) {
+            .img-top-img{
+                 display:none;
+            }
+            .img-top-1{
+               
+                 display:block;
+            }
+ 
+}
+
+    </style>
+
+<body>
+
+    <form runat="server">
+        <!-- ======= Top Bar ======= -->
+    <div id="topbar" class="d-flex align-items-center fixed-top">
+        <div class="container d-flex align-items-center justify-content-end">
+           
+           
+             <div class="align-items-center d-none d-md-flex">
+                  <div class="d-flex align-items-center serch-1">
+                     <div class="input-group">
+                         <div class="form-outline">
+                             <input type="search" id="form1" class="form-control" placeholder="Search" />
+                         </div>
+                         <button type="button" class="btn " style="color: #fff;
+background-color:#3abef9;
+border-color: #3572ef;">
+                             <i class="fas fa-search"></i>
+                         </button>
+                     </div>
+                 </div>
+                 <a href="Home.aspx" title="हिंदी" style="color: white">हिंदी</a>
+            </div>
+        </div>
+    </div>
+
+        <!-- ======= Header ======= -->
+            <header id="header" class="fixed-top">
+        <%--<div class="container d-flex align-items-center">--%>
+        
+        <div class="mob-head">
+            <div class="container d-flex justify-content-center">
+                <%--<div class="img-top-1">
+                    <a href="../Home.aspx" class="header_img" title="UNIT FOR STRENGTHENING CAUSE OF DEATH DATA">
+                        <img src="assets/img/logo/USCOD_Header_Image.jpg" alt="UNIT FOR STRENGTHENING CAUSE OF DEATH DATA">
+                    </a>
+                </div>--%>
+              <div class="img-top-1  d-flex">
+    <a href="Home.aspx" class="header_img" title="UNIT FOR STRENGTHENING CAUSE OF DEATH DATA">
+        <img src="assets/img/logo/logo.ico" alt="UNIT FOR STRENGTHENING CAUSE OF DEATH DATA">
+    </a>
+                   <a href="Home.aspx" class="header_img" ><h6 class="h-1 d-flex justify-content-center">CENTRE FOR CANCER EPIDIMIOLOGY</h6><h6 class="h-2 d-flex justify-content-center">Unit For Strengthening Cause Of Death Data</h6><h6 class="h-3 d-flex justify-content-center">A Unit Of Tata Memorial Centre, Mumbai</h6><h6 class="h-11 d-flex justify-content-center">(Grant-In-Aid Institution, Department Of Atomic Energy, Government Of India)</h6>
+ 
+ </a>
+                   <a href="Home.aspx" class="header_img-1" title="UNIT FOR STRENGTHENING CAUSE OF DEATH DATA">
+     <img src="assets/img/logo/CCEICON.ico" alt="UNIT FOR STRENGTHENING CAUSE OF DEATH DATA">
+ </a>
+</div>
+                <div class="img-top-img">
+                    <a href="Home.aspx" class="logo me-auto" title="UNIT FOR STRENGTHENING CAUSE OF DEATH">
+    <img src="assets/img/logo/USCOD_Header_Image.jpg" alt="UNIT FOR STRENGTHENING CAUSE OF DEATH" /></a>
+                </div>
+                <!-- .navbar -->
+            </div>
+            <header id="header-1" class="fixed-top-1">
+
+                  <div class="container head-nav d-flex justify-content-center">
+            <div class="nav-top-1">
+<nav id="navbar" class="navbar order-last order-lg-0">
+    <ul>
+        <li class="nav-item"><a class="nav-link" href="Home.aspx" title="Home">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="USCODTeam.aspx" title="USCOD Team">USCOD Team</a></li>
+        <li class="dropdown"><a class="nav-link scrollto " href="#" title="Resources">Resources<i class="bi bi-chevron-down"></i></a>
+            <ul>
+                <li><a class="nav-link scrollto " href="CRVS.aspx" title="CRVS">CRVS</a></li>
+                <li><a class="nav-link scrollto" href="MCCD.aspx" title="MCCD">MCCD</a></li>
+                <li><a class="nav-link scrollto " href="ICD.aspx" title="ICD Mortality Coding">ICD Mortality Coding</a></li>
+                <%--<li><a class="nav-link scrollto" href="MCCDCodingCase.aspx" title="MCCD and Coding Case Clarifications">MCCD and Coding Case Clarifications</a></li>--%>
+                <li><a class="nav-link scrollto" href="Iris.aspx" title="Iris Automated Coding System">Iris Automated Coding System</a></li>
+                <li><a class="nav-link scrollto " href="youtube.aspx" title="CRVS">USCOD Youtube Channel</a></li>
+            </ul>
+        </li>
+        <%--  <li class="dropdown"><a href="#" style="font-size: 20px;color: #157fda;"><span><b>Locations</b></span> <i class="bi bi-chevron-down"></i></a>
+        <ul>
+            <li><a href="https://tmc.gov.in/index.php/en/" title="Tata Memorial Centre, Mumbai.">TMC, Mumbai.</a></li>
+            <li><a href="https://tmc.gov.in/tmh/index.php/en/" title="Tata Memorial Hospital, Mumbai.">TMH, Mumbai.</a></li>
+            <li><a href="https://actrec.gov.in/" title="Advanced Center For Treatment, Reserach and Education in Cancer, Navi Mumbai.">ACTREC, Navi Mumbai.</a></li>
+            <li><a href="http://www.bbcionline.org/" title="Dr. B. Borooah Cancer Institute, Guwahati.">BBCI, Guwahati.</a></li>
+            <li><a href="https://tmcepi.gov.in/">CCE, Actrec.</a></li>
+            <li><a href="https://tmc.gov.in/tmh/index.php/en/hbch-varanasi" title="Homi Bhabha Cancer Hospital">HBCH, Varanasi.</a></li>                            
+            <li><a href="https://tmc.gov.in/tmh/index.php/en/hbchrc-vizag" title="The Homi Bhabha Cancer Hospital and Research Centre, Vizag.">HBCHRC, Vizag.</a></li>
+            <li><a href="https://tmc.gov.in/tmh/index.php/hbch-sangrur" title="Homi Bhabha Cancer Hospital, Sangrur, Punjab.">HBCH, Sangrur, Punjab.</a></li>                            
+            <li><a href="https://tmc.gov.in/tmh/index.php/en/hbch-muzaffarpur" title="The Homi Bhabha Cancer Hospital and Research Centre, Muzaffarpur.">HBCHRC, Muzaffarpur.</a></li>                             
+           <li><a href="#" title="Homi Bhabha Cancer Hospital and Research Centre, Mullanpur">HBCHRC, Mullanpur.</a></li>
+        </ul>
+     </li>  --%>
+        <li class="dropdown"><a href="#"><span>News & Events</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+                <li><a href="PastEvents.aspx" title="Past Events">Past Events</a></li>
+                <li><a href="UpcomingEvent.aspx" title="Upcomming Events">Upcomming Events</a></li>
+                <%--                                <li><a href="#" title="Research and Publication">Research & Publication</a></li>--%>
+            </ul>
+        </li>
+        <%--<li class="nav-item"><a class="nav-link" href="#" title="Faculty & Staff">Faculty & Staff</a></li>--%>
+        <%-- <li class="nav-item"><a class="nav-link" href="Gallery.aspx" title="Gallery">Gallery</a></li>--%>
+        <li class="nav-item"><a class="nav-link" href="FeedbackFaq.aspx" title="FAQ's & Feedback">FAQ's & Feedback</a></li>
+        <li class="nav-item"><a class="nav-link" href="Contactus.aspx" title="Contact Us">Contact Us</a></li>
+    </ul>
+    <i class="bi bi-list mobile-nav-toggle"></i>
+</nav>
+                    </div>
+                  </div>
+
+             </header>
+        </div>
+    </header>
+        <!-- End Header -->
+
+
+
+        <!-- ======= Main Conte ======= -->
+        <div class="container-fluid">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="Head" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- End Hero -->
+
+        <!-- ======= Footer ======= -->
+        <footer id="footer">
+     <div class="footer-top">
+         <div class="container">
+             <div class="row">
+                 <div class="col-sm-4">
+                     <div class="footer-info footer-links">
+                         <h3>Centre for Cancer Epidimiology</h3>
+                         <h4 style="color: #3abef9; font-size: 18px;">Unit for Strengthening Cause of Death Data</h4>
+                         <h4 style="color: white;">Advanced Centre for Treatment, Research and Education in Cancer (ACTREC)</h4>
+                         <h4 style="color: white;">Tata Memorial Centre (TMC)</h4>
+                         <p>
+                             <b>Sector 22, Utsav Chowk - CISF Rd, Owe Camp,<br />
+                                 Kharghar, Navi Mumbai,<br />
+                                 Maharashtra 410210 
+                         <br>
+                                 <strong>Phone:</strong><a style="color: #3abef9;"> (022) 27405000, <span style="color: white;">Extension: </span>5856</a><br>
+                                 <strong>Email: </strong><a href="mailto:cce.dept@actrec.gov.in" style="color: #3abef9;">cce.dept@actrec.gov.in</a>
+                             </b>
+                         </p>
+                         <div class="social-links mt-3">
+                         <a href="https://www.youtube.com/channel/UCYVdLsHJa6_ZXmQQk4_m2eA" style="background:white;padding:7px;" class="youtube"><i class="bx bxl-youtube"></i></a>
+                         <br />
+                         <%--                                <a href="https://twitter.com/TMC_Varanasi" class="twitter"><i class="bx bxl-twitter"></i></a>
+                         <a href="https://www.facebook.com/profile.php?id=100057011783740" class="facebook"><i class="bx bxl-facebook"></i></a>
+                         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                             --%>
+                             <button style="background-color: #3abef9; border-color: transparent; color: #fff; width: 150px; height: 36px; margin-top: 5px; border-radius: 6px; padding: 6px;">
+                                 No.Of Hits
+                                    <asp:Label runat="server" ID="lblCount" /><i class='fas'>&nbsp;&#xf0c0;</i></button>
+                                                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <h3><a href="#">Global Navigation</a></h3>
+                    <br />
+                    <ul class="copy">
+                        <li>
+                            <h4><a href="Privacy-Policy.aspx">Privacy & Policy</a></h4>
+                        </li>
+                        <li>
+                            <h4><a href="Copyright-Policy.aspx">Copyright Policy</a></h4>
+                        </li>
+                        <li>
+                            <h4><a href="Hyperlinking-Policy.aspx">Hyperlinking Policy</a></h4>
+                        </li>
+                        <li>
+                            <h4><a href="Disclaimer.aspx">Disclaimer</a></h4>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.9553088012876!2d73.06077721421258!3d19.06570245725211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c18d23938f87%3A0xbea4e4df8d44d75a!2sCentre%20for%20Cancer%20Epidemiology!5e0!3m2!1sen!2sin!4v1651127997118!5m2!1sen!2sin" style="border: 0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <!---map end--->
+            </div>
+            <!----row end --->
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="copyright">
+            Copyright &copy; <span>2022 Centre for Cancer Epidemiology</span>. All Rights Reserved
+        </div>
+    </div>
+</footer>
+        <!-- End Footer -->
+
+
+<%--        <div id="preloader"></div>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+--%>
+
+
+        <!----Swiper script ----->
+        <script src="assets/js/swiper-bundle.min.js"></script>
+        <script src="assets/Jquerry3.6.0/jquerry.js"></script>
+
+        <!-- Vendor JS Files -->
+        <script src="assets/vendor/purecounter/purecounter.js"></script>
+        <script src="assets/vendor/aos/aos.js"></script>
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/js/COD.js"></script>
+        <!-- Template Main JS File -->
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/scrollupJavaScript.js"></script>
+        <%--        <script src="assets/vendor/Magnific-Popup-master/dist/jquery.magnific-popup.min.js"></script>--%>
+        <%--image viewer--%>
+        <script src="assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.min.js"></script>
+
+        <!--- MAgnific Popup ---->
+        <script>
+            $(document).ready(function () {
+                //Another Image Viewer
+                $('[data-magnify=imagegallery]').magnify();
+            });
+        </script>
+
+        <!-- Google tag (gtag.js) -->
+<!---
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BY36MW10ZS"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-BY36MW10ZS');
+</script>
+    ---->
+
+    </form>
+
+
+
+</body>
+</html>

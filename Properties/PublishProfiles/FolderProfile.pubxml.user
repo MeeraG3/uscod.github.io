@@ -1,0 +1,2908 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\admin\Desktop\USCOD-TEST</_PublishTargetUrl>
+    <History>True|2024-07-11T07:12:12.0958546Z||;True|2024-07-04T16:33:11.5338213+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/css/cod.css">
+      <publishTime>06/13/2024 09:57:24</publishTime>
+    </File>
+    <File Include="assets/css/style.css">
+      <publishTime>06/14/2024 12:14:25</publishTime>
+    </File>
+    <File Include="assets/css/swiper.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Documents/MCCD Manual Booklet.pdf">
+      <publishTime>07/10/2024 12:27:57</publishTime>
+    </File>
+    <File Include="assets/Documents/MCCDCourseBrochure.pdf">
+      <publishTime>06/12/2024 15:32:28</publishTime>
+    </File>
+    <File Include="assets/Documents/newsletter edited2.pdf">
+      <publishTime>07/10/2024 11:43:47</publishTime>
+    </File>
+    <File Include="assets/Documents/USCODD E-Newsletter_December 2021.v8.pdf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/.editorconfig">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/.eslintrc">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/.github/FUNDING.yml">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/.gitignore">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/.stylelintrc">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/.travis.yml">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/bower.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/docs.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/jquery.magnify.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/magnify-bezelless-theme.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/magnify-white-theme.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/snack-helper.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/snack.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/index.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/js/jquery.magnify.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/js/vendor/jquery-1.12.4.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/docs/js/vendor/modernizr-2.8.3.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/examples/bezel-less-style.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/examples/custom-toolbar.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/examples/display-in-modal.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/examples/modal-init-maximized.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/examples/standard-with-scroll.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/LICENSE">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/package-lock.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/package.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/README.md">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/core.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/draggable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/intro.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/movable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/resizable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/rotate.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/utilities.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/magnify.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_fullscreen.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_general.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_helpers.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_loader.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_resizable.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/director_img/circle-cropped/CCEbuildingSlider.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/director_img/circle-cropped/Dr.Dikshit_circlecropped.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/director_img/circle-cropped/PankajC-modified.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/director_img/Dr. avinash.png">
+      <publishTime>06/24/2024 10:12:30</publishTime>
+    </File>
+    <File Include="assets/img/director_img/Dr. rajendra.png">
+      <publishTime>06/24/2024 10:07:57</publishTime>
+    </File>
+    <File Include="assets/img/director_img/Dr.Dikshit.JPG">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/director_img/dr.PankajC.jpg">
+      <publishTime>06/25/2024 12:16:21</publishTime>
+    </File>
+    <File Include="assets/img/director_img/PankajC.jpg">
+      <publishTime>06/24/2024 10:48:42</publishTime>
+    </File>
+    <File Include="assets/img/director_img/PankajC_.jpg">
+      <publishTime>06/12/2024 11:40:40</publishTime>
+    </File>
+    <File Include="assets/img/director_img/RajeshD.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/director_img/userpic.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/andhrapradesh/AP1.png">
+      <publishTime>10/06/2024 09:32:44</publishTime>
+    </File>
+    <File Include="assets/img/events/past/andhrapradesh/AP2.png">
+      <publishTime>10/06/2024 09:32:44</publishTime>
+    </File>
+    <File Include="assets/img/events/past/andhrapradesh/AP3.png">
+      <publishTime>10/06/2024 09:32:46</publishTime>
+    </File>
+    <File Include="assets/img/events/past/andhrapradesh/AP4 %281%29.png">
+      <publishTime>06/10/2024 15:00:01</publishTime>
+    </File>
+    <File Include="assets/img/events/past/andhrapradesh/AP4.png">
+      <publishTime>04/06/2024 16:55:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/AP.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/1.jfif">
+      <publishTime>06/10/2024 16:07:55</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/1.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/10.jpeg">
+      <publishTime>06/10/2024 16:10:10</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/10.jpg">
+      <publishTime>10/06/2024 10:44:28</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/2.jfif">
+      <publishTime>06/10/2024 16:08:06</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/2.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/3.jfif">
+      <publishTime>06/10/2024 16:08:15</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/3.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/4.jfif">
+      <publishTime>06/10/2024 16:08:27</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/4.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/5.jfif">
+      <publishTime>06/10/2024 16:08:40</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/5.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/6.jfif">
+      <publishTime>06/10/2024 16:08:51</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/6.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/7.jpeg">
+      <publishTime>06/10/2024 16:09:23</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/7.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/8.jpeg">
+      <publishTime>06/10/2024 16:09:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/8.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/9.jpeg">
+      <publishTime>06/10/2024 16:09:49</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/9.jpg">
+      <publishTime>10/06/2024 10:44:28</publishTime>
+    </File>
+    <File Include="assets/img/events/past/bihar/Principal.jpg">
+      <publishTime>05/06/2024 15:37:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/Basics of ICD Coding Session.jpg">
+      <publishTime>10/06/2024 04:25:10</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/Certifying Deaths due to External Causes.jpg">
+      <publishTime>10/06/2024 04:25:10</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/Glimses of Online Participants for the MCCD ToT Refresher Course.jpg">
+      <publishTime>10/06/2024 04:25:10</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/Key Points to consider for deaths due to External Causes.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/MCCD Certificate Case Discussion by Trainers from Bihar.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/MCCD Certificate Case Discussion by Trainers from Uttar Pradesh.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/Process of Death Registration in India explained by Master Trainer %28India%29.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/tot1.jfif">
+      <publishTime>06/08/2024 12:11:43</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/tot2.jfif">
+      <publishTime>06/08/2024 12:57:54</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/tot2.jpg">
+      <publishTime>04/06/2024 16:46:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/general-training/Training experience presented by a group of trainers.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="assets/img/events/past/generaltraining.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/1.jfif">
+      <publishTime>06/07/2024 16:59:51</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/10.jfif">
+      <publishTime>06/08/2024 09:54:47</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/11.jfif">
+      <publishTime>06/08/2024 09:55:08</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/13.jfif">
+      <publishTime>06/08/2024 09:55:35</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/14.jfif">
+      <publishTime>06/08/2024 09:55:51</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/15.jfif">
+      <publishTime>06/08/2024 09:56:08</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/16.jfif">
+      <publishTime>06/08/2024 09:56:23</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/17.jfif">
+      <publishTime>06/08/2024 09:56:37</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/18.jfif">
+      <publishTime>06/08/2024 09:56:51</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/19.jfif">
+      <publishTime>06/08/2024 09:57:33</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/2.jfif">
+      <publishTime>06/07/2024 17:00:07</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/20.jfif">
+      <publishTime>06/08/2024 09:57:53</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/21.jfif">
+      <publishTime>06/08/2024 09:58:09</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/22.jfif">
+      <publishTime>06/08/2024 09:58:27</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/23.jfif">
+      <publishTime>06/08/2024 09:58:49</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/24.jfif">
+      <publishTime>06/08/2024 09:59:24</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/25.jfif">
+      <publishTime>06/08/2024 09:59:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/26.jfif">
+      <publishTime>06/08/2024 10:00:03</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/3.jfif">
+      <publishTime>06/07/2024 17:00:21</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/4.jfif">
+      <publishTime>06/08/2024 09:52:57</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/5.jfif">
+      <publishTime>06/08/2024 09:53:12</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/6.jfif">
+      <publishTime>06/08/2024 09:53:27</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/7.jfif">
+      <publishTime>06/08/2024 09:53:59</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/8.jfif">
+      <publishTime>06/08/2024 09:54:19</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/9.jfif">
+      <publishTime>06/08/2024 09:54:32</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/dsc.jpg">
+      <publishTime>05/29/2024 11:08:22</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/first.jfif">
+      <publishTime>06/07/2024 16:59:37</publishTime>
+    </File>
+    <File Include="assets/img/events/past/international-woskshop/Sam_Notzon.jfif">
+      <publishTime>06/08/2024 09:53:44</publishTime>
+    </File>
+    <File Include="assets/img/events/past/launch.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/11.jfif">
+      <publishTime>06/10/2024 14:22:21</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/11.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/12.jfif">
+      <publishTime>06/10/2024 14:22:37</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/12.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/13.jfif">
+      <publishTime>06/10/2024 14:22:51</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/13.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/14.jfif">
+      <publishTime>06/10/2024 14:23:11</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/14.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/15.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/1d3580bd-da18-4250-9f6e-047ac157b5a6.jfif">
+      <publishTime>06/10/2024 11:55:01</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/392ff0cb-46aa-4963-b98c-aa731e5aec3b.jfif">
+      <publishTime>06/10/2024 11:55:23</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/6f0a9246-311d-4700-ae76-e7b73e9cfadd.jfif">
+      <publishTime>06/10/2024 11:55:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Dr Amey training on the errors in MCCD forms and providing examples of well written forms.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Dr Burhannudin presenting a case example during the case discussion session.jfif">
+      <publishTime>06/10/2024 11:50:22</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Dr Burhannudin presenting a case example during the case discussion session.jpg">
+      <publishTime>10/06/2024 06:53:50</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Dr Pankaj talking about the physician role in improving MCCD.jfif">
+      <publishTime>06/10/2024 11:50:37</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Dr Pankaj talking about the physician role in improving MCCD.jpg">
+      <publishTime>10/06/2024 06:53:50</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Dr Sivaranjini training on how to fill correct MCCD forms with proper causal sequence.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/DrAkashAnandPresentation.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/DrShripadBanavali.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/e721a448-903f-4572-a2f9-efb746648a1f.jfif">
+      <publishTime>06/10/2024 11:55:52</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Educating.jpg">
+      <publishTime>04/06/2024 16:50:20</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/IMG_2598.jpg">
+      <publishTime>06/10/2024 11:56:06</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Participating Junior Residents from Tata Memorial Hospital along with the USCOD Team.jfif">
+      <publishTime>06/10/2024 11:51:17</publishTime>
+    </File>
+    <File Include="assets/img/events/past/maharashtra/Participating Junior Residents from Tata Memorial Hospital along with the USCOD Team.jpg">
+      <publishTime>10/06/2024 06:53:50</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/1.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/10.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/11.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/12.jpg">
+      <publishTime>10/06/2024 11:14:04</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/13.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/2.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/3.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/4.jpg">
+      <publishTime>10/06/2024 11:14:08</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/5.jfif">
+      <publishTime>06/10/2024 16:36:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/6.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/7.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/8.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/9.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="assets/img/events/past/nagaland/nagaland3.jpeg">
+      <publishTime>05/06/2024 12:32:52</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/1.jfif">
+      <publishTime>06/08/2024 10:32:52</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/10.jfif">
+      <publishTime>06/08/2024 10:34:57</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/11.jfif">
+      <publishTime>06/08/2024 10:35:08</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/12.jfif">
+      <publishTime>06/08/2024 10:35:21</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/13.jfif">
+      <publishTime>06/08/2024 10:35:35</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/14.jfif">
+      <publishTime>06/08/2024 10:35:48</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/15.jfif">
+      <publishTime>06/08/2024 10:36:08</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/16.jfif">
+      <publishTime>06/08/2024 10:36:23</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/17.jfif">
+      <publishTime>06/08/2024 10:36:40</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/18.jfif">
+      <publishTime>06/08/2024 10:36:52</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/19.jfif">
+      <publishTime>06/08/2024 10:37:03</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/2.jfif">
+      <publishTime>06/08/2024 10:33:08</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/20.jfif">
+      <publishTime>06/08/2024 10:37:21</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/21.jfif">
+      <publishTime>06/08/2024 10:37:37</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/22.jfif">
+      <publishTime>06/08/2024 10:37:54</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/23.jfif">
+      <publishTime>06/08/2024 10:38:09</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/24.jfif">
+      <publishTime>06/08/2024 10:38:22</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/25.jfif">
+      <publishTime>06/08/2024 10:38:47</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/26.jfif">
+      <publishTime>06/08/2024 10:38:59</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/27.jfif">
+      <publishTime>06/08/2024 10:39:14</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/28.jfif">
+      <publishTime>06/08/2024 10:39:32</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/3.jfif">
+      <publishTime>06/08/2024 10:33:19</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/4.jfif">
+      <publishTime>06/08/2024 10:33:31</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/5.jfif">
+      <publishTime>06/08/2024 10:33:48</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/6.jfif">
+      <publishTime>06/08/2024 10:34:01</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/7.jfif">
+      <publishTime>06/08/2024 10:34:16</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/8.jfif">
+      <publishTime>06/08/2024 10:34:28</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/9.jfif">
+      <publishTime>06/08/2024 10:34:41</publishTime>
+    </File>
+    <File Include="assets/img/events/past/national-woskshop/national.jpg">
+      <publishTime>04/06/2024 16:28:56</publishTime>
+    </File>
+    <File Include="assets/img/events/past/newsletter.jpg">
+      <publishTime>05/06/2024 12:38:43</publishTime>
+    </File>
+    <File Include="assets/img/events/past/newsletter/newsletter.jpg">
+      <publishTime>05/06/2024 12:39:42</publishTime>
+    </File>
+    <File Include="assets/img/events/past/newslettercomingsoon.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/NewsletterDec2021.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uscod-launch/codtemp1.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uscod-launch/codtemp2.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uscod-launch/codtemp3.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uscod-launch/codtemp5.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uscod-launch/codtemp6.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uscod-launch/codtemp7.jpg">
+      <publishTime>08/06/2024 05:39:32</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/1.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/2.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/3.jpg">
+      <publishTime>06/10/2024 15:19:22</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/4.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/5.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/6.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/7.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/8.jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/Dr Akash Anand Training the audience for generating an understanding of the Process of Death Registration..jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/Dr Divya Khanna engaging the audience for a session on the Review of MCCD forms and General Guidelines to correctly certify a death..jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/Dr Sharvari Mhapankar speaking about importance of Cause of Death Data and the activities of USCOD.jfif">
+      <publishTime>06/10/2024 15:22:45</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/Dr Sharvari presenting the Introduction and Importance of MCCD and Good Quality Cause of Death Data..jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/MCCD Training of Resident Doctors at KGMU, Day 1 Audience.jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/MCCD Training of Resident Doctors at KGMU, Day 2 Audience.jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/Presentation on Common errors in MCCD at SGPGIMS State Level Meeting.jpg">
+      <publishTime>06/10/2024 15:56:09</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/up.jpg">
+      <publishTime>05/06/2024 15:34:10</publishTime>
+    </File>
+    <File Include="assets/img/events/past/uttarpradesh/USCOD at State Level Meeting on Birth and Death Registration held at SGPGIMS Lucknow, Uttar Pradesh.jfif">
+      <publishTime>06/10/2024 15:23:19</publishTime>
+    </File>
+    <File Include="assets/img/events/past/westbengal.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/westbengal/WB1.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/westbengal/WB2.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/events/past/westbengal/WB3.png">
+      <publishTime>07/29/2022 10:17:50</publishTime>
+    </File>
+    <File Include="assets/img/events/past/youtube/youtube.jpg">
+      <publishTime>05/06/2024 12:37:44</publishTime>
+    </File>
+    <File Include="assets/img/images.avif">
+      <publishTime>06/25/2024 14:57:01</publishTime>
+    </File>
+    <File Include="assets/img/images.jfif">
+      <publishTime>06/25/2024 14:37:25</publishTime>
+    </File>
+    <File Include="assets/img/images.jpg">
+      <publishTime>06/25/2024 15:01:34</publishTime>
+    </File>
+    <File Include="assets/img/logo/CCE LOGO.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/logo/CCEICON.ico">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/logo/logo.ico">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/logo/USCOD_Header_Image.jpg">
+      <publishTime>06/06/2024 12:27:37</publishTime>
+    </File>
+    <File Include="assets/img/logo/USCOD_Header_Image1_processed.jpg">
+      <publishTime>06/07/2024 11:19:38</publishTime>
+    </File>
+    <File Include="assets/img/ResourcePageImages/CodingCase1Response.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/ResourcePageImages/CodingCasePractice_CodingCase1.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/ResourcePageImages/MCCDCase1Response.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/ResourcePageImages/MCCDCasePractice_MCCDCase1.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/ResourcePageImages/OverviewofCRVS.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/ResourcePageImages/OverviewofMCCD.jpg">
+      <publishTime>07/29/2022 11:09:16</publishTime>
+    </File>
+    <File Include="assets/img/slide/3.jpg">
+      <publishTime>06/12/2024 11:07:58</publishTime>
+    </File>
+    <File Include="assets/img/slide/4.jpg">
+      <publishTime>06/12/2024 11:08:11</publishTime>
+    </File>
+    <File Include="assets/img/slide/actrecSlider.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/slide/CCEbuildingSlider.JPG">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/slide/CCEUSCODNEW.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/slide/CCE_click.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/slide/Omnicuris.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/slide/Untitled.png">
+      <publishTime>06/12/2024 11:15:43</publishTime>
+    </File>
+    <File Include="assets/img/slide/uoscod-1.jpg">
+      <publishTime>06/12/2024 11:05:31</publishTime>
+    </File>
+    <File Include="assets/img/slide/uoscod.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/amit.jpg">
+      <publishTime>05/29/2024 12:28:34</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/archita.jpg">
+      <publishTime>06/24/2024 09:59:40</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Akash.jpg">
+      <publishTime>05/29/2024 16:17:24</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Amey.jpg">
+      <publishTime>05/29/2024 17:03:54</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Avinash Supe.jpg">
+      <publishTime>03/06/2024 11:44:06</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Kayla Laserson.jpg">
+      <publishTime>03/06/2024 12:04:24</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Nishant.jpg">
+      <publishTime>06/06/2024 10:33:32</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Prabhat Jha.jpg">
+      <publishTime>03/06/2024 12:25:18</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Ruchi.jpg">
+      <publishTime>05/29/2024 16:51:38</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr Sivaranjini.jpg">
+      <publishTime>05/29/2024 17:05:26</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Aishwarya.jpg">
+      <publishTime>05/31/2024 17:15:46</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Anjali.jpg">
+      <publishTime>05/29/2024 14:59:50</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Bharat.jpg">
+      <publishTime>05/31/2024 17:02:40</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. bura.jpg">
+      <publishTime>03/06/2024 11:31:12</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Divya.jpg">
+      <publishTime>05/29/2024 16:24:42</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Harshita.jpg">
+      <publishTime>05/31/2024 16:55:32</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. olga.png">
+      <publishTime>06/24/2024 10:43:04</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Pam Groenewald.jpg">
+      <publishTime>03/06/2024 14:12:36</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Ravikant Singh.jpg">
+      <publishTime>03/06/2024 11:54:12</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Sharvari-.png">
+      <publishTime>05/29/2024 16:03:32</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Sharvari.png">
+      <publishTime>05/29/2024 11:24:08</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. subita.jpg">
+      <publishTime>06/24/2024 12:21:13</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. Vinay.jpeg">
+      <publishTime>06/06/2024 10:44:10</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Dr. yagnik.jpg">
+      <publishTime>05/29/2024 17:10:08</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Hafiz Headshot.png">
+      <publishTime>05/29/2024 15:24:32</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Jean.jpg">
+      <publishTime>03/07/2024 14:16:22</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/JS Thakur.jpg">
+      <publishTime>03/06/2024 11:52:00</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/jyoti.jpg">
+      <publishTime>05/29/2024 15:06:50</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Mangala Gomare.jpg">
+      <publishTime>03/06/2024 11:47:40</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/mangesh.jpg">
+      <publishTime>05/29/2024 12:43:56</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Meera.jpg">
+      <publishTime>02/07/2024 11:35:15</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Sam Notzon.jpg">
+      <publishTime>05/29/2024 15:15:42</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/sanam.jpg">
+      <publishTime>05/29/2024 15:28:50</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/santosh.jpg">
+      <publishTime>05/29/2024 10:59:18</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/sayukta.jpg">
+      <publishTime>05/29/2024 14:12:58</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/Sharvari Mhapankar Headshot_.png">
+      <publishTime>03/06/2024 16:05:16</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/shubham.jpg">
+      <publishTime>05/31/2024 16:40:56</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/sudeshna.jpg">
+      <publishTime>05/29/2024 15:03:38</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/yogesh.jpg">
+      <publishTime>06/24/2024 09:57:19</publishTime>
+    </File>
+    <File Include="assets/img/TeamPic/yukta.jpeg">
+      <publishTime>05/29/2024 11:19:22</publishTime>
+    </File>
+    <File Include="assets/Jquerry3.6.0/jquerry.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/js/COD.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/js/main.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/js/scrollupJavaScript.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/js/swiper-bundle.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/css/style.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/dist/css/basictable.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/dist/css/basictable.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/dist/js/basictable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/dist/js/basictable.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/dist/js/jquery.basictable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/table/dist/js/jquery.basictable.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/animate.css/animate.compat.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/animate.css/animate.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/animate.css/animate.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/aos/aos.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/aos/aos.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap-icons/bootstrap-icons.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap-icons/bootstrap-icons.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap-icons/index.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.esm.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.esm.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.esm.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.esm.min.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/css/animations.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/css/boxicons.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/css/boxicons.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/css/transformations.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/fonts/boxicons.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/fonts/boxicons.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/fonts/boxicons.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/fonts/boxicons.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/boxicons/fonts/boxicons.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/all.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/all.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/brands.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/brands.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/fontawesome.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/fontawesome.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/regular.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/regular.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/solid.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/solid.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/svg-with-js.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/svg-with-js.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/v4-shims.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/css/v4-shims.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-brands-400.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-brands-400.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-regular-400.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-regular-400.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-solid-900.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-solid-900.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/glightbox/css/glightbox.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/glightbox/css/glightbox.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/glightbox/js/glightbox.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/glightbox/js/glightbox.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/js/main.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/dist/jquery.magnific-popup.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/dist/jquery.magnific-popup.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/dist/magnific-popup.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/libs/jquery-loader.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/libs/jquery/jquery.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/libs/qunit/qunit.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/libs/qunit/qunit.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/LICENSE">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/css/main.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/css/_settings.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/ajax.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/core.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/gallery.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/iframe.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/image.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/inline.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/retina.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/Magnific-Popup-master/src/js/zoom.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/php-email-form/validate.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/purecounter/purecounter.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/swiper/swiper-bundle.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="assets/vendor/swiper/swiper-bundle.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="bin/COD.dll">
+      <publishTime>07/11/2024 12:41:53</publishTime>
+    </File>
+    <File Include="bin/COD.pdb">
+      <publishTime>07/11/2024 12:41:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/09/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>11/11/2018 05:56:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Net.Http.Headers.dll">
+      <publishTime>09/10/2019 22:05:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>06/04/2022 00:33:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>06/04/2022 00:34:06</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/18/2021 01:33:36</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 17:49:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/12/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/12/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>05/11/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/11/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/11/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>05/11/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/11/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/11/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>05/11/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>05/11/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>05/11/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>05/11/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>05/11/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/11/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/11/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/11/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/11/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/11/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>05/11/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/11/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/11/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/11/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/11/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/11/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>05/15/2018 18:59:34</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>06/06/2018 18:59:04</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>07/19/2017 15:31:36</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>06/06/2018 18:59:04</publishTime>
+    </File>
+    <File Include="ContactUs.aspx">
+      <publishTime>04/07/2024 13:53:56</publishTime>
+    </File>
+    <File Include="Copyright-Policy.aspx">
+      <publishTime>04/07/2024 15:16:22</publishTime>
+    </File>
+    <File Include="CRVS.aspx">
+      <publishTime>04/07/2024 12:28:11</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>07/11/2024 11:58:14</publishTime>
+    </File>
+    <File Include="Disclaimer.aspx">
+      <publishTime>04/07/2024 15:16:15</publishTime>
+    </File>
+    <File Include="EVENTandhrapradesh.aspx">
+      <publishTime>04/07/2024 12:52:05</publishTime>
+    </File>
+    <File Include="EVENTbihar.aspx">
+      <publishTime>04/07/2024 12:52:50</publishTime>
+    </File>
+    <File Include="EVENTgeneraltrainning.aspx">
+      <publishTime>04/07/2024 12:53:42</publishTime>
+    </File>
+    <File Include="EVENTInternational.aspx">
+      <publishTime>04/07/2024 12:50:15</publishTime>
+    </File>
+    <File Include="EVENTmaharashtra.aspx">
+      <publishTime>04/07/2024 12:54:40</publishTime>
+    </File>
+    <File Include="EVENTnagaland.aspx">
+      <publishTime>04/07/2024 12:55:27</publishTime>
+    </File>
+    <File Include="EVENTnational.aspx">
+      <publishTime>04/07/2024 13:00:52</publishTime>
+    </File>
+    <File Include="EVENTnewsletters.aspx">
+      <publishTime>04/07/2024 12:56:14</publishTime>
+    </File>
+    <File Include="EVENTodisha.aspx">
+      <publishTime>04/07/2024 13:13:19</publishTime>
+    </File>
+    <File Include="EVENTpunjab.aspx">
+      <publishTime>04/07/2024 13:08:32</publishTime>
+    </File>
+    <File Include="EVENTuscodlaunch.aspx">
+      <publishTime>04/07/2024 12:57:03</publishTime>
+    </File>
+    <File Include="EVENTuttarpradesh.aspx">
+      <publishTime>07/10/2024 14:28:41</publishTime>
+    </File>
+    <File Include="EVENTwestbengal.aspx">
+      <publishTime>04/07/2024 12:58:34</publishTime>
+    </File>
+    <File Include="FeedbackFaq.aspx">
+      <publishTime>04/07/2024 13:52:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/25/2022 11:42:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/css/cod.css">
+      <publishTime>06/13/2024 09:57:24</publishTime>
+    </File>
+    <File Include="Hindi/assets/css/style.css">
+      <publishTime>06/14/2024 12:14:25</publishTime>
+    </File>
+    <File Include="Hindi/assets/css/swiper.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Documents/MCCDCourseBrochure.pdf">
+      <publishTime>06/12/2024 15:32:28</publishTime>
+    </File>
+    <File Include="Hindi/assets/Documents/USCODD E-Newsletter_December 2021.v8.pdf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/.editorconfig">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/.eslintrc">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/.github/FUNDING.yml">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/.gitignore">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/.stylelintrc">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/.travis.yml">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/bower.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/dist/jquery.magnify.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/docs.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/jquery.magnify.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/magnify-bezelless-theme.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/magnify-white-theme.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/snack-helper.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/css/snack.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/index.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/js/jquery.magnify.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/js/vendor/jquery-1.12.4.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/docs/js/vendor/modernizr-2.8.3.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/examples/bezel-less-style.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/examples/custom-toolbar.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/examples/display-in-modal.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/examples/modal-init-maximized.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/examples/standard-with-scroll.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/LICENSE">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/package-lock.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/package.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/README.md">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/core.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/draggable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/intro.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/movable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/resizable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/rotate.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/js/utilities.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/magnify.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_fullscreen.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_general.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_helpers.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_loader.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/Image-Viewer-Plugin-jQuery-Magnify/src/sass/_resizable.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/circle-cropped/CCEbuildingSlider.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/circle-cropped/Dr.Dikshit_circlecropped.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/circle-cropped/PankajC-modified.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/Dr. avinash.png">
+      <publishTime>06/24/2024 10:12:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/Dr. rajendra.png">
+      <publishTime>06/24/2024 10:07:57</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/Dr.Dikshit.JPG">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/dr.PankajC.jpg">
+      <publishTime>06/25/2024 12:16:21</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/PankajC.jpg">
+      <publishTime>06/24/2024 10:48:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/PankajC_.jpg">
+      <publishTime>06/12/2024 11:40:40</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/RajeshD.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/director_img/userpic.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/andhrapradesh/AP1.png">
+      <publishTime>10/06/2024 09:32:44</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/andhrapradesh/AP2.png">
+      <publishTime>10/06/2024 09:32:44</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/andhrapradesh/AP3.png">
+      <publishTime>10/06/2024 09:32:46</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/andhrapradesh/AP4 %281%29.png">
+      <publishTime>06/10/2024 15:00:01</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/andhrapradesh/AP4.png">
+      <publishTime>04/06/2024 16:55:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/AP.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/1.jfif">
+      <publishTime>06/10/2024 16:07:55</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/1.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/10.jpeg">
+      <publishTime>06/10/2024 16:10:10</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/10.jpg">
+      <publishTime>10/06/2024 10:44:28</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/2.jfif">
+      <publishTime>06/10/2024 16:08:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/2.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/3.jfif">
+      <publishTime>06/10/2024 16:08:15</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/3.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/4.jfif">
+      <publishTime>06/10/2024 16:08:27</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/4.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/5.jfif">
+      <publishTime>06/10/2024 16:08:40</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/5.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/6.jfif">
+      <publishTime>06/10/2024 16:08:51</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/6.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/7.jpeg">
+      <publishTime>06/10/2024 16:09:23</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/7.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/8.jpeg">
+      <publishTime>06/10/2024 16:09:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/8.jpg">
+      <publishTime>10/06/2024 10:44:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/9.jpeg">
+      <publishTime>06/10/2024 16:09:49</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/9.jpg">
+      <publishTime>10/06/2024 10:44:28</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/bihar/Principal.jpg">
+      <publishTime>05/06/2024 15:37:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/Basics of ICD Coding Session.jpg">
+      <publishTime>10/06/2024 04:25:10</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/Certifying Deaths due to External Causes.jpg">
+      <publishTime>10/06/2024 04:25:10</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/Glimses of Online Participants for the MCCD ToT Refresher Course.jpg">
+      <publishTime>10/06/2024 04:25:10</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/Key Points to consider for deaths due to External Causes.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/MCCD Certificate Case Discussion by Trainers from Bihar.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/MCCD Certificate Case Discussion by Trainers from Uttar Pradesh.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/Process of Death Registration in India explained by Master Trainer %28India%29.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/tot1.jfif">
+      <publishTime>06/08/2024 12:11:43</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/tot2.jfif">
+      <publishTime>06/08/2024 12:57:54</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/tot2.jpg">
+      <publishTime>04/06/2024 16:46:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/general-training/Training experience presented by a group of trainers.jpg">
+      <publishTime>10/06/2024 04:25:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/generaltraining.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/1.jfif">
+      <publishTime>06/07/2024 16:59:51</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/10.jfif">
+      <publishTime>06/08/2024 09:54:47</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/11.jfif">
+      <publishTime>06/08/2024 09:55:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/13.jfif">
+      <publishTime>06/08/2024 09:55:35</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/14.jfif">
+      <publishTime>06/08/2024 09:55:51</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/15.jfif">
+      <publishTime>06/08/2024 09:56:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/16.jfif">
+      <publishTime>06/08/2024 09:56:23</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/17.jfif">
+      <publishTime>06/08/2024 09:56:37</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/18.jfif">
+      <publishTime>06/08/2024 09:56:51</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/19.jfif">
+      <publishTime>06/08/2024 09:57:33</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/2.jfif">
+      <publishTime>06/07/2024 17:00:07</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/20.jfif">
+      <publishTime>06/08/2024 09:57:53</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/21.jfif">
+      <publishTime>06/08/2024 09:58:09</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/22.jfif">
+      <publishTime>06/08/2024 09:58:27</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/23.jfif">
+      <publishTime>06/08/2024 09:58:49</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/24.jfif">
+      <publishTime>06/08/2024 09:59:24</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/25.jfif">
+      <publishTime>06/08/2024 09:59:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/26.jfif">
+      <publishTime>06/08/2024 10:00:03</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/3.jfif">
+      <publishTime>06/07/2024 17:00:21</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/4.jfif">
+      <publishTime>06/08/2024 09:52:57</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/5.jfif">
+      <publishTime>06/08/2024 09:53:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/6.jfif">
+      <publishTime>06/08/2024 09:53:27</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/7.jfif">
+      <publishTime>06/08/2024 09:53:59</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/8.jfif">
+      <publishTime>06/08/2024 09:54:19</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/9.jfif">
+      <publishTime>06/08/2024 09:54:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/dsc.jpg">
+      <publishTime>05/29/2024 11:08:22</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/first.jfif">
+      <publishTime>06/07/2024 16:59:37</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/international-woskshop/Sam_Notzon.jfif">
+      <publishTime>06/08/2024 09:53:44</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/launch.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/11.jfif">
+      <publishTime>06/10/2024 14:22:21</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/11.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/12.jfif">
+      <publishTime>06/10/2024 14:22:37</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/12.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/13.jfif">
+      <publishTime>06/10/2024 14:22:51</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/13.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/14.jfif">
+      <publishTime>06/10/2024 14:23:11</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/14.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/15.jpg">
+      <publishTime>10/06/2024 08:56:00</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/1d3580bd-da18-4250-9f6e-047ac157b5a6.jfif">
+      <publishTime>06/10/2024 11:55:01</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/392ff0cb-46aa-4963-b98c-aa731e5aec3b.jfif">
+      <publishTime>06/10/2024 11:55:23</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/6f0a9246-311d-4700-ae76-e7b73e9cfadd.jfif">
+      <publishTime>06/10/2024 11:55:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Dr Amey training on the errors in MCCD forms and providing examples of well written forms.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Dr Burhannudin presenting a case example during the case discussion session.jfif">
+      <publishTime>06/10/2024 11:50:22</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Dr Burhannudin presenting a case example during the case discussion session.jpg">
+      <publishTime>10/06/2024 06:53:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Dr Pankaj talking about the physician role in improving MCCD.jfif">
+      <publishTime>06/10/2024 11:50:37</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Dr Pankaj talking about the physician role in improving MCCD.jpg">
+      <publishTime>10/06/2024 06:53:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Dr Sivaranjini training on how to fill correct MCCD forms with proper causal sequence.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/DrAkashAnandPresentation.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/DrShripadBanavali.jpg">
+      <publishTime>10/06/2024 06:27:14</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/e721a448-903f-4572-a2f9-efb746648a1f.jfif">
+      <publishTime>06/10/2024 11:55:52</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Educating.jpg">
+      <publishTime>04/06/2024 16:50:20</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/IMG_2598.jpg">
+      <publishTime>06/10/2024 11:56:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Participating Junior Residents from Tata Memorial Hospital along with the USCOD Team.jfif">
+      <publishTime>06/10/2024 11:51:17</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/maharashtra/Participating Junior Residents from Tata Memorial Hospital along with the USCOD Team.jpg">
+      <publishTime>10/06/2024 06:53:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/1.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/10.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/11.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/12.jpg">
+      <publishTime>10/06/2024 11:14:04</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/13.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/2.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/3.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/4.jpg">
+      <publishTime>10/06/2024 11:14:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/5.jfif">
+      <publishTime>06/10/2024 16:36:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/6.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/7.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/8.jpg">
+      <publishTime>10/06/2024 11:10:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/9.jpg">
+      <publishTime>10/06/2024 11:14:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/nagaland/nagaland3.jpeg">
+      <publishTime>05/06/2024 12:32:52</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/1.jfif">
+      <publishTime>06/08/2024 10:32:52</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/10.jfif">
+      <publishTime>06/08/2024 10:34:57</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/11.jfif">
+      <publishTime>06/08/2024 10:35:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/12.jfif">
+      <publishTime>06/08/2024 10:35:21</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/13.jfif">
+      <publishTime>06/08/2024 10:35:35</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/14.jfif">
+      <publishTime>06/08/2024 10:35:48</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/15.jfif">
+      <publishTime>06/08/2024 10:36:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/16.jfif">
+      <publishTime>06/08/2024 10:36:23</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/17.jfif">
+      <publishTime>06/08/2024 10:36:40</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/18.jfif">
+      <publishTime>06/08/2024 10:36:52</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/19.jfif">
+      <publishTime>06/08/2024 10:37:03</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/2.jfif">
+      <publishTime>06/08/2024 10:33:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/20.jfif">
+      <publishTime>06/08/2024 10:37:21</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/21.jfif">
+      <publishTime>06/08/2024 10:37:37</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/22.jfif">
+      <publishTime>06/08/2024 10:37:54</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/23.jfif">
+      <publishTime>06/08/2024 10:38:09</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/24.jfif">
+      <publishTime>06/08/2024 10:38:22</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/25.jfif">
+      <publishTime>06/08/2024 10:38:47</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/26.jfif">
+      <publishTime>06/08/2024 10:38:59</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/27.jfif">
+      <publishTime>06/08/2024 10:39:14</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/28.jfif">
+      <publishTime>06/08/2024 10:39:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/3.jfif">
+      <publishTime>06/08/2024 10:33:19</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/4.jfif">
+      <publishTime>06/08/2024 10:33:31</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/5.jfif">
+      <publishTime>06/08/2024 10:33:48</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/6.jfif">
+      <publishTime>06/08/2024 10:34:01</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/7.jfif">
+      <publishTime>06/08/2024 10:34:16</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/8.jfif">
+      <publishTime>06/08/2024 10:34:28</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/9.jfif">
+      <publishTime>06/08/2024 10:34:41</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/national-woskshop/national.jpg">
+      <publishTime>04/06/2024 16:28:56</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/newsletter.jpg">
+      <publishTime>05/06/2024 12:38:43</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/newsletter/newsletter.jpg">
+      <publishTime>05/06/2024 12:39:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/newslettercomingsoon.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/NewsletterDec2021.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uscod-launch/codtemp1.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uscod-launch/codtemp2.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uscod-launch/codtemp3.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uscod-launch/codtemp5.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uscod-launch/codtemp6.jpg">
+      <publishTime>08/06/2024 05:39:30</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uscod-launch/codtemp7.jpg">
+      <publishTime>08/06/2024 05:39:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/1.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/2.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/3.jpg">
+      <publishTime>06/10/2024 15:19:22</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/4.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/5.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/6.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/7.jpg">
+      <publishTime>10/06/2024 09:56:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/8.jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/Dr Akash Anand Training the audience for generating an understanding of the Process of Death Registration..jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/Dr Divya Khanna engaging the audience for a session on the Review of MCCD forms and General Guidelines to correctly certify a death..jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/Dr Sharvari Mhapankar speaking about importance of Cause of Death Data and the activities of USCOD.jfif">
+      <publishTime>06/10/2024 15:22:45</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/Dr Sharvari presenting the Introduction and Importance of MCCD and Good Quality Cause of Death Data..jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/MCCD Training of Resident Doctors at KGMU, Day 1 Audience.jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/MCCD Training of Resident Doctors at KGMU, Day 2 Audience.jpg">
+      <publishTime>10/06/2024 09:56:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/Presentation on Common errors in MCCD at SGPGIMS State Level Meeting.jpg">
+      <publishTime>06/10/2024 15:56:09</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/up.jpg">
+      <publishTime>05/06/2024 15:34:10</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/uttarpradesh/USCOD at State Level Meeting on Birth and Death Registration held at SGPGIMS Lucknow, Uttar Pradesh.jfif">
+      <publishTime>06/10/2024 15:23:19</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/westbengal.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/westbengal/WB1.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/westbengal/WB2.png">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/westbengal/WB3.png">
+      <publishTime>07/29/2022 10:17:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/events/past/youtube/youtube.jpg">
+      <publishTime>05/06/2024 12:37:44</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/images.avif">
+      <publishTime>06/25/2024 14:57:01</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/images.jfif">
+      <publishTime>06/25/2024 14:37:25</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/images.jpg">
+      <publishTime>06/25/2024 15:01:34</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/logo/CCE LOGO.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/logo/CCEICON.ico">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/logo/logo.ico">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/logo/USCOD_Header_Image.jpg">
+      <publishTime>06/06/2024 12:27:37</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/logo/USCOD_Header_Image1_processed.jpg">
+      <publishTime>06/07/2024 11:19:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/ResourcePageImages/CodingCase1Response.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/ResourcePageImages/CodingCasePractice_CodingCase1.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/ResourcePageImages/MCCDCase1Response.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/ResourcePageImages/MCCDCasePractice_MCCDCase1.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/ResourcePageImages/OverviewofCRVS.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/ResourcePageImages/OverviewofMCCD.jpg">
+      <publishTime>07/29/2022 11:09:16</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/3.jpg">
+      <publishTime>06/12/2024 11:07:58</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/4.jpg">
+      <publishTime>06/12/2024 11:08:11</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/actrecSlider.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/CCEbuildingSlider.JPG">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/CCEUSCODNEW.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/CCE_click.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/Omnicuris.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/Untitled.png">
+      <publishTime>06/12/2024 11:15:43</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/uoscod-1.jpg">
+      <publishTime>06/12/2024 11:05:31</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/slide/uoscod.jpg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/amit.jpg">
+      <publishTime>05/29/2024 12:28:34</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/archita.jpg">
+      <publishTime>06/24/2024 09:59:40</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Akash.jpg">
+      <publishTime>05/29/2024 16:17:24</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Amey.jpg">
+      <publishTime>05/29/2024 17:03:54</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Avinash Supe.jpg">
+      <publishTime>03/06/2024 11:44:06</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Kayla Laserson.jpg">
+      <publishTime>03/06/2024 12:04:24</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Nishant.jpg">
+      <publishTime>06/06/2024 10:33:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Prabhat Jha.jpg">
+      <publishTime>03/06/2024 12:25:18</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Ruchi.jpg">
+      <publishTime>05/29/2024 16:51:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr Sivaranjini.jpg">
+      <publishTime>05/29/2024 17:05:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Aishwarya.jpg">
+      <publishTime>05/31/2024 17:15:46</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Anjali.jpg">
+      <publishTime>05/29/2024 14:59:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Bharat.jpg">
+      <publishTime>05/31/2024 17:02:40</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. bura.jpg">
+      <publishTime>03/06/2024 11:31:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Divya.jpg">
+      <publishTime>05/29/2024 16:24:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Harshita.jpg">
+      <publishTime>05/31/2024 16:55:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. olga.png">
+      <publishTime>06/24/2024 10:43:04</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Pam Groenewald.jpg">
+      <publishTime>03/06/2024 14:12:36</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Ravikant Singh.jpg">
+      <publishTime>03/06/2024 11:54:12</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Sharvari-.png">
+      <publishTime>05/29/2024 16:03:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Sharvari.png">
+      <publishTime>05/29/2024 11:24:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. subita.jpg">
+      <publishTime>06/24/2024 12:21:13</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. Vinay.jpeg">
+      <publishTime>06/06/2024 10:44:10</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Dr. yagnik.jpg">
+      <publishTime>05/29/2024 17:10:08</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Hafiz Headshot.png">
+      <publishTime>05/29/2024 15:24:32</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Jean.jpg">
+      <publishTime>03/07/2024 14:16:22</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/JS Thakur.jpg">
+      <publishTime>03/06/2024 11:52:00</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/jyoti.jpg">
+      <publishTime>05/29/2024 15:06:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Mangala Gomare.jpg">
+      <publishTime>03/06/2024 11:47:40</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/mangesh.jpg">
+      <publishTime>05/29/2024 12:43:56</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Meera.jpg">
+      <publishTime>02/07/2024 11:35:15</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Sam Notzon.jpg">
+      <publishTime>05/29/2024 15:15:42</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/sanam.jpg">
+      <publishTime>05/29/2024 15:28:50</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/santosh.jpg">
+      <publishTime>05/29/2024 10:59:18</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/sayukta.jpg">
+      <publishTime>05/29/2024 14:12:58</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/Sharvari Mhapankar Headshot_.png">
+      <publishTime>03/06/2024 16:05:16</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/shubham.jpg">
+      <publishTime>05/31/2024 16:40:56</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/sudeshna.jpg">
+      <publishTime>05/29/2024 15:03:38</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/yogesh.jpg">
+      <publishTime>06/24/2024 09:57:19</publishTime>
+    </File>
+    <File Include="Hindi/assets/img/TeamPic/yukta.jpeg">
+      <publishTime>05/29/2024 11:19:22</publishTime>
+    </File>
+    <File Include="Hindi/assets/Jquerry3.6.0/jquerry.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/js/COD.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/js/main.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/js/scrollupJavaScript.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/js/swiper-bundle.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/css/style.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/dist/css/basictable.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/dist/css/basictable.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/dist/js/basictable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/dist/js/basictable.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/dist/js/jquery.basictable.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/table/dist/js/jquery.basictable.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/animate.css/animate.compat.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/animate.css/animate.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/animate.css/animate.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/aos/aos.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/aos/aos.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap-icons/bootstrap-icons.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap-icons/bootstrap-icons.json">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap-icons/index.html">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.rtl.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.rtl.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.rtl.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.esm.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.esm.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.esm.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/css/animations.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/css/boxicons.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/css/boxicons.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/css/transformations.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/fonts/boxicons.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/fonts/boxicons.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/fonts/boxicons.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/fonts/boxicons.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/boxicons/fonts/boxicons.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/all.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/all.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/brands.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/brands.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/fontawesome.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/fontawesome.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/regular.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/regular.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/solid.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/solid.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/svg-with-js.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/svg-with-js.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/v4-shims.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/css/v4-shims.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-brands-400.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-brands-400.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-regular-400.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-regular-400.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-solid-900.eot">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-solid-900.svg">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/glightbox/css/glightbox.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/glightbox/css/glightbox.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/glightbox/js/glightbox.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/glightbox/js/glightbox.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/js/main.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/dist/jquery.magnific-popup.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/dist/jquery.magnific-popup.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/dist/magnific-popup.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/libs/jquery-loader.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/libs/jquery/jquery.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/libs/qunit/qunit.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/libs/qunit/qunit.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/LICENSE">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/css/main.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/css/_settings.scss">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/ajax.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/core.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/gallery.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/iframe.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/image.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/inline.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/retina.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/Magnific-Popup-master/src/js/zoom.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/php-email-form/validate.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/purecounter/purecounter.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/swiper/swiper-bundle.min.css">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/assets/vendor/swiper/swiper-bundle.min.js">
+      <publishTime>07/29/2022 09:51:26</publishTime>
+    </File>
+    <File Include="Hindi/indexhi.aspx">
+      <publishTime>04/07/2024 15:59:06</publishTime>
+    </File>
+    <File Include="Hindi/Site1.Master">
+      <publishTime>04/07/2024 16:12:48</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>07/10/2024 12:29:43</publishTime>
+    </File>
+    <File Include="Hyperlinking-Policy.aspx">
+      <publishTime>04/07/2024 15:16:08</publishTime>
+    </File>
+    <File Include="ICD.aspx">
+      <publishTime>04/07/2024 16:23:20</publishTime>
+    </File>
+    <File Include="Images/ccelogo.jpg">
+      <publishTime>10/06/2022 10:33:10</publishTime>
+    </File>
+    <File Include="Images/cloud.jpg">
+      <publishTime>10/06/2022 10:33:10</publishTime>
+    </File>
+    <File Include="Images/codtemp1.jpg">
+      <publishTime>06/29/2022 15:04:10</publishTime>
+    </File>
+    <File Include="Images/codtemp2.jpg">
+      <publishTime>06/29/2022 15:04:10</publishTime>
+    </File>
+    <File Include="Images/codtemp3.jpg">
+      <publishTime>06/29/2022 15:04:10</publishTime>
+    </File>
+    <File Include="Images/codtemp5.jpg">
+      <publishTime>06/29/2022 15:04:10</publishTime>
+    </File>
+    <File Include="Images/codtemp6.jpg">
+      <publishTime>06/29/2022 15:04:10</publishTime>
+    </File>
+    <File Include="Images/codtemp7.jpg">
+      <publishTime>06/29/2022 15:04:10</publishTime>
+    </File>
+    <File Include="Images/locationIcon.png">
+      <publishTime>10/06/2022 10:33:10</publishTime>
+    </File>
+    <File Include="Images/tempimage.png">
+      <publishTime>10/06/2022 10:33:10</publishTime>
+    </File>
+    <File Include="Iris.aspx">
+      <publishTime>04/07/2024 16:22:04</publishTime>
+    </File>
+    <File Include="MCCD.aspx">
+      <publishTime>04/07/2024 16:22:10</publishTime>
+    </File>
+    <File Include="MCCDCodingCase.aspx">
+      <publishTime>07/22/2022 10:37:20</publishTime>
+    </File>
+    <File Include="Message.aspx">
+      <publishTime>04/07/2024 15:36:05</publishTime>
+    </File>
+    <File Include="Message1.aspx">
+      <publishTime>04/07/2024 15:38:02</publishTime>
+    </File>
+    <File Include="PastEvents.aspx">
+      <publishTime>04/07/2024 12:48:39</publishTime>
+    </File>
+    <File Include="Privacy-Policy.aspx">
+      <publishTime>04/07/2024 15:16:28</publishTime>
+    </File>
+    <File Include="Site.master">
+      <publishTime>04/07/2024 16:04:27</publishTime>
+    </File>
+    <File Include="Site.Mobile.master">
+      <publishTime>03/08/2022 14:09:44</publishTime>
+    </File>
+    <File Include="TESTING.aspx">
+      <publishTime>02/09/2022 14:59:02</publishTime>
+    </File>
+    <File Include="UpcomingEvent.aspx">
+      <publishTime>04/07/2024 13:16:03</publishTime>
+    </File>
+    <File Include="USCODTeam.aspx">
+      <publishTime>04/07/2024 16:26:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/07/2024 16:32:52</publishTime>
+    </File>
+    <File Include="youtube.aspx">
+      <publishTime>04/07/2024 12:46:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
